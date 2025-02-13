@@ -1,18 +1,24 @@
 #include <stdio.h>
 /*OBSERVAÇÕES DO ALUNO: 
--Solicitações de etapas do curso(Novato,Aventureiro,Mestre) são muito confusas e aparentam desorganização
--Necessário revisão para demonstrar ao aluno corretamente o que é necessário em cada etapa do código.
+-Solicitações de etapas do curso(Novato,Aventureiro,Mestre) são muito confusas e aparentam desorganização nivel médio
+-Necessário revisão para demonstrar ao aluno, corretamente, o que é necessário em cada etapa do código.
 -Solicitações atuais não correspondem ao nível de conhecimento apresentado nas aulas e criam frustração no aluno que não possui
-informações sobre vetores, arrays, limpeza de buffer e chamada de biblioteca padrão.
--VSCode não é tão "beginner friendly"(interface suja demais) como CODEBLOCKS
- e apresenta diversos erros de instalação dada versão atual e demonstração datada anteriormente(?) para aula do curso.
+informações sobre vetores, matrizes, limpeza de buffer e chamada de biblioteca padrão em C.
+-No momento alunos devem tentar fazer o código "ATÉ ONDE DER" o que ocasiona perda de tempo de estudo precioso 
+pois o mesmo tentará enquanto for possível "teimar"(algo que varia de pessoa para pessoa)
+-VSCode não é tão "beginner friendly"(interface suja demais) como CODEBLOCKS(IDE ideal para iniciantes)
+ e apresenta diversos erros de instalação, dada versão atual e demonstração datada anteriormente(?) para aula do curso.
+-Tempo perdido em 12/02/25 para instalação do VSCODE corretamente em WINDOWS: 2 horas e 42 minutos(com pesquisa online).
+-Tempo perdido para configurar GITHUB(criar conta e assistir tutorial na aula): 30-45 minutos.
+-GITHUB aparenta ser melhor e mais facil de configurar apesar da entrega de link não ter sido determinada por etapas ou conclusão
+de tema.
 
 INFORMAÇÕES DESEJADAS:
- -Número de países com os quais o programa trabalhará
- -Onde começar e onde parar o código para que tempo de estudo tenha delimitação
+ -Número de países com os quais o programa SUPER_TRUNFO trabalhará
+ -Onde parar o código para que tempo de estudo tenha delimitação e não haja disperdicio
  -Limpeza de buffer de gets teria ajudado bastante se ensinado no nivel NOVATO.
  -Vetores para utilizar de comando 'for(i = 0;i > scanf(variavel),i++)' para criar multiplas cartas com menos variaveis e linhas de codigo.
- -Arrays para organização de subtipos com 'for' mencionado acima
+ -Matrizes para organização de subtipos com 'for' mencionado acima
 
 */
 
